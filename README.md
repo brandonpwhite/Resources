@@ -2,5 +2,5 @@
 
 ## Fuzzing
 
-http://lcamtuf.coredump.cx/afl/
-https://github.com/google/honggfuzz
+* http://lcamtuf.coredump.cx/afl/
+* https://github.com/google/honggfuzz
